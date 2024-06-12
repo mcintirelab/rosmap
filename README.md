@@ -1,8 +1,11 @@
 # Lipidomics Analysis Pipeline
 
 ## Description
-This pipeline performs lipidomics data analysis for brain and serum samples, including data loading, filtering, imputation, normalization, clustering analysis, and bulk RNA-seq gene expression analysis. The analysis was conducted on a sample of participants from the ROSMAP cohort.
+This pipeline performs lipidomics data analysis for brain and serum samples, including data loading, filtering, imputation, normalization, clustering analysis, and bulk RNA-seq gene expression analysis. This analysis pipeline was developed for the article entitled "Brain and serum lipidomic profiles implicate Lands cycle acyl chain remodeling association with APOEε4 and mild cognitive impairment", published in Frontiers in Aging Neuroscience.
+Please cite the article as follows if you use this pipeline:
 
+## Citation:
+Mares J, Costa AP, Dartora WJ, Wartchow KM, Lazarian A, Bennett DA, Nuriel T, Menon V and McIntire LBJ (2024) Brain and serum lipidomic profiles implicate Lands cycle acyl chain remodeling association with APOEε4 and mild cognitive impairment. Front. Aging Neurosci. 16:1419253. doi: 10.3389/fnagi.2024.1419253
 
 ## File Structure
 - `01_Lipid_Inputs.R`: Loading and preparation of lipidomics data.
