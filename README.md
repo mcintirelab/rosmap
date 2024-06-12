@@ -1,7 +1,8 @@
 # Lipidomics Analysis Pipeline
 
 ## Description
-This pipeline performs lipidomics data analysis for brain and serum samples, including data loading, filtering, imputation, normalization, clustering analysis, and bulk RNA-seq gene expression analysis.
+This pipeline performs lipidomics data analysis for brain and serum samples, including data loading, filtering, imputation, normalization, clustering analysis, and bulk RNA-seq gene expression analysis. The analysis was conducted on a sample of participants from the ROSMAP cohort.
+
 
 ## File Structure
 - `01_Lipid_Inputs.R`: Loading and preparation of lipidomics data.
